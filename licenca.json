@@ -1,6 +1,7 @@
 {
   "CLIENTE_001": {
     "ativo": true,
-    "vencimento": "2027-07-06"
+    "vencimento": "2026-07-10",
+    "mac": "AA:BB:CC:DD:EE:FF"
   }
 }
