@@ -4,4 +4,9 @@
     "vencimento": "2026-07-10",
     "mac": "C4:D0:E3:9D:89:D2"
   }
+   "CLIENTE_002": {
+    "ativo": true,
+    "vencimento": "2026-07-10",
+    "mac": "64:1C:67:90:00:E9"
+  }
 }
